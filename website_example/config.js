@@ -1,7 +1,7 @@
-var api = "http://poolhost:8117";
+var api = "http://82.146.56.17:8117";
 
-var email = "support@poolhost.com";
-var telegram = "https://t.me/YourPool";
+var email = "pool@hleb.cc";
+var telegram = "https://t.me/hlebcoin_news";
 var discord = "https://discordapp.com/invite/YourPool";
 
 var marketCurrencies = ["{symbol}-BTC", "{symbol}-USD", "{symbol}-EUR", "{symbol}-CAD"];
