@@ -9,5 +9,5 @@ var marketCurrencies = ["{symbol}-BTC", "{symbol}-USD", "{symbol}-EUR", "{symbol
 var blockchainExplorer = "http://explorer.hleb.cc/?hash={id}#blockchain_block";
 var transactionExplorer = "http://explorer.hleb.cc/?hash={id}#blockchain_transaction";
 
-var themeCss = "themes/default.css";
+var themeCss = "themes/custom.css";
 var defaultLang = 'en';
